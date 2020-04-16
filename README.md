@@ -24,4 +24,4 @@ In progressing one's character in the game the player has a choice, substitute o
 ## <a href='https://github.com/ZacButko/Probability-Playground/tree/master/Warfish%20Dice'>Warfish Dice</a>
 
 The web-based game Warfish is much like the classic "Risk". On your turn you get a certain amount of troops with which you can try attacking other players' territories and taking them for your empire. The attack mechanic is usually at the crux of any strategy, so maximizing it is imperative. We explore several ways to conceptualize remaining probability after successive losses (or wins!), and look at how this changes when defender has extra advantage (+1 or higher) to their rolls
-<img src="images/StarWars.png" width="600">
+<img src="images/Warfish.png" width="600">
